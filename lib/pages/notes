@@ -1,0 +1,16 @@
+Acctually everthing start's from main.dart:
+
+then after that we have to import package matrerial for accessing the widget's.
+
+
+then we have give the root of the tree,
+for that we  have to type;
+void main() {
+    runapp
+}
+
+aftr doing this we have to type slt which will provide us a startlesswidget's
+
+
+Day 4:
+Adding images in the flutter project:
